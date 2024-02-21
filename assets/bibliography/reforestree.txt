@@ -1,6 +1,0 @@
-@article{reiersen2022reforestree,
-  title={ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery},
-  author={Reiersen, Gyri and Dao, David and L{\"u}tjens, Bj{\"o}rn and Klemmer, Konstantin and Amara, Kenza and Steinegger, Attila and Zhang, Ce and Zhu, Xiaoxiang},
-  journal={arXiv preprint arXiv:2201.11192},
-  year={2022}
-}

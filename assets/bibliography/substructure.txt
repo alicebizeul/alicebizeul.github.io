@@ -1,5 +1,0 @@
-@article{amara2022substructure,
-  title={A substructure-aware loss for feature attribution in drug discovery},
-  author={Amara, Kenza and Rodriguez-Perez, Raquel and Luna, Jos{\'e} Jim{\'e}nez},
-  year={2022}
-}

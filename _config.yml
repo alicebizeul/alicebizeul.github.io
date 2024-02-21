@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kenza Amara # the website title (if blank, full name will be used instead)
-first_name: Kenza
-last_name: Amara
-email: kenza.amara@ai.ethz.ch
+title: Alice Bizeul # the website title (if blank, full name will be used instead)
+first_name: Alice 
+last_name: Bizeul
+email: alice.bizeul@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Doctorate Fellow - ETH AI Center
+  Applied Research Intern @Amazon | Ph.D. Student @ETH Zürich
 footer_text: >
 
 icon: 👩🏽‍🎓 # the emoji used as the favicon - you can use a custom image by changing the line in head.html
-url: https://k-amara.github.io # the base hostname & protocol for your site
+url: https://alicebizeul.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 
@@ -38,11 +38,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: k-amara # your GitHub user name
-twitter_username: KenzaAMARA4 # your Twitter handle
-linkedin_username: kenza-amara # your LinkedIn user name
-work_url: https://systems.ethz.ch/people/profile.MjY0Mjcy.TGlzdC8zODg4LDEyOTU2NDI2OTI=.html # work page URL
-scholar_userid: e4wlh1AAAAAJ # your Google Scholar ID
+github_username: alicebizeul # your GitHub user name
+twitter_username: AliceBizeul # your Twitter handle
+linkedin_username: alicebizeul # your LinkedIn user name
+work_url: https://inf.ethz.ch/people/people-atoz/person-detail.MjkzMzI4.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html # work page URL
+scholar_userid: 0YhW_0AAAAAJ # your Google Scholar ID
 
 contact_note: >
 

@@ -2,63 +2,18 @@
 layout: page
 permalink: /about/
 title: About
-description: Detailed Curriculum Vitae, last updated 2022 <a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a>
+description: Research Intern @Amazon | Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT
 nav: true
 ---
 
-## Short Bio
+## About Me
 
-I am a Doctoral Fellow at the ETH AI Center, supervised by Prof. Andreas Krause and Prof. Menna El-Assady at ETH Zurich. I completed my BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. I completed a 2nd MSc in Environmental Sciences at ETH Zurich.
+I am a doctoral student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
-Meanwhile, I have run several research project combining computer science and real-world applications.
-In 2022, I worked at Microsoft Research Cambridge to improve feature attribution methods in drug discovery.
-In 2021, I joined Facebook AI Research Paris where I worked on enhancing decoder capacity for data compression retrieval.
-In 2020, I developed OneForest, a tree species detection algorithm based on GNN and optimal transport theory, at Crowther Lab, ETH Zurich.
-In 2019, I worked on ML-based prediction of californian wildfires at the Earth Institute of Columbia University, US.
+In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
 
-Besides my research experience, I have worked as a Software Engineer intern at DAIKIN in Osaka, JAPAN in 2018.
-In 2017, I was full-time Teaching Assistant for 6 months at the Sino-French Institute of Nuclear Engineering (IFCEN) in Zhuhai, CHINA.
+I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-## Education
+For a detailed overview of my academic journey and contributions, feel free to download my CV<a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a> or publication overview.
 
-### ETH AI Center, Zürich
 
-_2021 - ..._\\
-PhD in Computer Science.
-
-### ETH Zürich
-
-_2019 - 2021._\\
-Master in Environmental Sciences and Policy.
-
-### École Polytechnique Paris
-
-_2017 - 2019._\\
-Master in Computer Science.
-
-_2014 - 2016._\\
-Bachelor of Science & Engineering in Computer Science and Applied Mathematics.
-
-<!-- Awards:
-- Research Internship Award (granted to the 10 best internships of the year over 200)
-- Outstanding Investment Award (rewarding the investment of a "student remarkable for his involvement in the life of the school")
-- Outstanding Leadership Award (rewarding the attitude of a "student who is remarkable for his ability to lead his fellow students and to unite them around a collective project or who demonstrates an acute sense of organisation and management")
-
-Relevant course work:
-- Image analysis and computer vision, Representation and analysis of shapes, Computer graphics, Data visualization, Topological data analysis
-- Advanced topics in AI, Machine & Deep Learning, Statistics, Markov Chains, Random Processes, Fundamentals of Probabilities
-- Molecular biology and genetic information, Pathologies and therapeutic strategies
-- Neuroscience & Cognitive sciences -->
-
-### Classes Préparatoires
-
-_2014 - 2016._\\
-Two-year intensive preparation courses for the entrance exams to top French Engineering schools (Mathematics, Physics, Chemistry).
-
-## Personal Information
-
-- Full Name: Kenza Amara
-- Location: Zürich, Switzerland
-- She/Her
-- Year of birth: 1997
-<!-- - Hobbies -->

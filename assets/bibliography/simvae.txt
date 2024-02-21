@@ -1,0 +1,6 @@
+@article{bizeul2024probabilistic,
+  title={A Probabilistic Model to explain Self-Supervised Representation Learning},
+  author={Bizeul, Alice and Sch{\"o}lkopf, Bernhard and Allen, Carl},
+  journal={arXiv preprint arXiv:2402.01399},
+  year={2024}
+}

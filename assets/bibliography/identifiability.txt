@@ -1,0 +1,6 @@
+@article{daunhawer2023identifiability,
+  title={Identifiability results for multimodal contrastive learning},
+  author={Daunhawer, Imant and Bizeul, Alice and Palumbo, Emanuele and Marx, Alexander and Vogt, Julia E},
+  journal={arXiv preprint arXiv:2303.09166},
+  year={2023}
+}

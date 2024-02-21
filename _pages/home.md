@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: ETH AI Center Doctoral Fellow. Studied at École polytechnique and ETH Zürich.
+description: Research Intern @Amazon | Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT
 
 profile:
   image: avatar.jpg
@@ -12,31 +12,52 @@ nav: false
 news: true # includes a list of news items
 ---
 
-## About me
+### About Me
 
-<div class="row">
-  <div class="col-md-8" markdown="1"> 
-  I am an ETH AI Center Doctoral Fellow ([ETH AI Center](https://ai.ethz.ch/)). 
-  My research interest is on explainability for graph neural networks and transformer-based architectures, and its use for health, atmospheric and climate models. 
-  I am particularly interested in:
-  - Deep learning on graphs, GNN explainability, network analysis, graph theory. 
-  - Interpretability of Foundation Models for Text generation and information extraction and Vision Transformers. 
-  - Generative AI for drug discovery.
-  - Applications in health, environmental sciences and social networks. 
-  
-  I am part of the ETH AI Center ([ETH AI Center](https://ai.ethz.ch/)) and LAS lab ([Institute for Computing Platforms - Systems Group](https://las.inf.ethz.ch/)) led by Prof. [Andreas Krause](https://las.inf.ethz.ch/krausea)
-  In the context of my co-supervisions, I work closely with the [Social Networks Lab](https://sn.ethz.ch/) led by Prof. [Ulrik Brandes](https://sn.ethz.ch/profile.html?persid=239462) and the IAC ([Institute for Atmospheric and Climate Science](https://iac.ethz.ch/)) led by Prof. [Sebastian Schemm](https://usys.ethz.ch/en/people/profile.MTU3ODEz.TGlzdC8yODUyLDMyMDE5NzIyMg==.html).
+I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
-Prior to my PhD, I studied at École polytechnique, majoring in computer science and mathematics. I also hold a Master's degree from ETH Zürich in environmental sciences and policy.
 
-  </div>
-  <div class="col-md-4 m-auto" style="text-align: center">
-    <img class="img-responsive rounded-circle profile" src="assets/img/{{page.profile.image}}">
-  </div>
-</div>
+In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
+
+I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
+
+More information about me here <a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a>
 
 ## News
 
 {% if page.news %}
 {% include news.html %}
 {% endif %}
+
+## Education
+
+_2021 - Ongoing_ \
+Ph.D. in Computer Science @ETH Zürich and @ETH AI Center
+
+_2020_\
+Master's Thesis @Senseable Intelligence Group, MIT under the supervision of Prof. Satrajit Ghosh.
+
+<!-- Awards:
+- Research Internship Award (granted to the 10 best internships of the year over 200)
+- Outstanding Investment Award (rewarding the investment of a "student remarkable for his involvement in the life of the school")
+- Outstanding Leadership Award (rewarding the attitude of a "student who is remarkable for his ability to lead his fellow students and to unite them around a collective project or who demonstrates an acute sense of organisation and management")
+
+Relevant course work:
+- Image analysis and computer vision, Representation and analysis of shapes, Computer graphics, Data visualization, Topological data analysis
+- Advanced topics in AI, Machine & Deep Learning, Statistics, Markov Chains, Random Processes, Fundamentals of Probabilities
+- Molecular biology and genetic information, Pathologies and therapeutic strategies
+- Neuroscience & Cognitive sciences -->
+
+_2014 - 2020_\
+Bachelor's & Master's @EPFL, Faculty of Life Sciences Engineering
+
+_2014_\
+Left  <img src="../assets/img/netherlands.png" style="max-width: 15px;"> for <img src="../assets/img/switzerland.png" style="max-width: 15px;">
+
+## Personal Information
+
+- <img src="../assets/img/placeholder.png" style="max-width: 20px;"> Zürich, Switzerland
+- <img src="../assets/img/house.png" style="max-width: 20px;"> in Maastricht, Liège, Paris & Zürich
+<!--- She/Her
+- Year of birth: 1997
+- Hobbies -->

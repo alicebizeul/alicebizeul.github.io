@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications and projects. You can also find most up-to-date entries for my latest publications on the Google Scholar page.
+description: Publications
 nav: true
 ---
 
