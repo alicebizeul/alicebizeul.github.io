@@ -56,7 +56,7 @@ _2014 - 2020_\
 Bachelor's & Master's @EPFL, Faculty of Life Sciences Engineering
 
 _2014_\
-Left  <img src="../assets/img/netherlands.png" style="max-width: 15px;"> for <img src="../assets/img/switzerland.png" style="max-width: 15px;">
+Left the Netherlands for Switzerland!
 
 ## Personal Information
 
