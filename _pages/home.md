@@ -40,17 +40,10 @@ news: true # includes a list of news items
 
 ## Education
 
-_2021 - Ongoing_ \
-Ph.D. in Computer Science @ETH Zürich and @ETH AI Center
+{% if page.education %}
+{% include education.html %}
+{% endif %}
 
-_2020_\
-Master's Thesis @Senseable Intelligence Group, MIT under the supervision of Prof. Satrajit Ghosh.
-
-_2014 - 2020_\
-Bachelor's & Master's @EPFL, Faculty of Life Sciences Engineering
-
-_2014_\
-Left the Netherlands for Switzerland!
 
 ## Personal Information
 
