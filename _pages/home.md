@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: Research Intern @Amazon | Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT
+description: Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT and Research Intern @Amazon
 
 profile:
   image: avatar.jpg
@@ -21,7 +21,13 @@ In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis a
 
 I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-More information about me here <a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a>
+More information about me <a href="/assets/pdf/cv.pdf">here</a> <i class="fas fa-download"></i></a>
+
+ </div>
+  <div class="col-md-4 m-auto" style="text-align: center">
+    <img class="img-responsive rounded-circle profile" src="assets/img/{{avatar.jpg}}">
+  </div>
+</div>
 
 ## News
 
@@ -58,6 +64,3 @@ Left  <img src="../assets/img/netherlands.png" style="max-width: 15px;"> for <im
 
 - <img src="../assets/img/placeholder.png" style="max-width: 20px;"> Zürich, Switzerland
 - <img src="../assets/img/house.png" style="max-width: 20px;"> in Maastricht, Liège, Paris & Zürich
-<!--- She/Her
-- Year of birth: 1997
-- Hobbies -->

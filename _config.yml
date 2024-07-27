@@ -7,7 +7,7 @@ first_name: Alice
 last_name: Bizeul
 email: alice.bizeul@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Applied Research Intern @Amazon | Ph.D. Student @ETH Zürich
+  Ph.D. Student @ETH Zürich | Previously research intern @Amazon
 footer_text: >
 
 icon: 👩🏽‍🎓 # the emoji used as the favicon - you can use a custom image by changing the line in head.html
@@ -40,7 +40,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: alicebizeul # your GitHub user name
 twitter_username: AliceBizeul # your Twitter handle
-linkedin_username: alicebizeul # your LinkedIn user name
+linkedin_username: alice-bizeul # your LinkedIn user name
 work_url: https://inf.ethz.ch/people/people-atoz/person-detail.MjkzMzI4.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html # work page URL
 scholar_userid: 0YhW_0AAAAAJ # your Google Scholar ID
 

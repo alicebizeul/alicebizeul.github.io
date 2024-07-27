@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About
-description: Research Intern @Amazon | Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT
+description: Ph.D. Student @ETH Zürich & @ETH AI Center | Previously @EPFL & @MIT and Research Intern @Amazon
 nav: true
 ---
 
@@ -14,6 +14,6 @@ In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis a
 
 I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-For a detailed overview of my academic journey and contributions, feel free to download my CV<a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a> or publication overview.
+For a detailed overview of my academic journey and contributions, feel free to download my <a href="/assets/pdf/cv.pdf">CV</a><i class="fas fa-download"></i></a> or publication overview.
 
 
