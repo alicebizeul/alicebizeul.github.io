@@ -46,17 +46,6 @@ Ph.D. in Computer Science @ETH Zürich and @ETH AI Center
 _2020_\
 Master's Thesis @Senseable Intelligence Group, MIT under the supervision of Prof. Satrajit Ghosh.
 
-<!-- Awards:
-- Research Internship Award (granted to the 10 best internships of the year over 200)
-- Outstanding Investment Award (rewarding the investment of a "student remarkable for his involvement in the life of the school")
-- Outstanding Leadership Award (rewarding the attitude of a "student who is remarkable for his ability to lead his fellow students and to unite them around a collective project or who demonstrates an acute sense of organisation and management")
-
-Relevant course work:
-- Image analysis and computer vision, Representation and analysis of shapes, Computer graphics, Data visualization, Topological data analysis
-- Advanced topics in AI, Machine & Deep Learning, Statistics, Markov Chains, Random Processes, Fundamentals of Probabilities
-- Molecular biology and genetic information, Pathologies and therapeutic strategies
-- Neuroscience & Cognitive sciences -->
-
 _2014 - 2020_\
 Bachelor's & Master's @EPFL, Faculty of Life Sciences Engineering
 
