@@ -3,11 +3,11 @@
     <h5><a href="{{ publi.url | relative_url }}">{{ publi.title }}</a></h5>
     <div class="authors">
       {% for author in publi.authors %} {% if forloop.last %}
-      <a title="{{author.affiliations | join: ', '}}"
+      <a href="{{ author.url }}" title="{{author.affiliations | join: ', '}}"
         >{{ author.name}}.
       </a>
       {% else %}
-      <a title="{{author.affiliations | join: ', '}}"
+      <a href="{{ author.url }}" title="{{author.affiliations | join: ', '}}"
         >{{ author.name}},
       </a>
       {% endif %} {% endfor %}
