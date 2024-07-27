@@ -24,7 +24,7 @@ I am broadly interested in **generative modelling, representation learning and (
 More information about me <a href="/assets/pdf/cv.pdf">here</a><i class="fas fa-download"></i></a>
 
 <div class="col-md-4 m-auto" style="text-align: center">
-  <img class="img-responsive rounded-circle profile" src="assets/img/{{avatar.jpg}}">
+  <img class="img-responsive rounded-circle profile" src="assets/img/{avatar.jpg}">
 </div>
 
 ## News
