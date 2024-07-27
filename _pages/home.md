@@ -39,10 +39,6 @@ news: true # includes a list of news items
 
 ## Education
 
-{% if page.education %}
-{% include education.html %}
-{% endif %}
-
 ## Personal Information
 
 - <img src="../assets/img/placeholder.png" style="max-width: 20px;"> Zürich, Switzerland
