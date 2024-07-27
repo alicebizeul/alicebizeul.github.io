@@ -13,7 +13,7 @@ news: true # includes a list of news items
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div>
+  <div class="col-md-8" markdown="1"> 
     ### About Me
 
     I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
@@ -26,7 +26,7 @@ news: true # includes a list of news items
   </div>
 
   <div>
-    <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 150px;">
+    <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 250px;">
   </div>
 </div>
 
