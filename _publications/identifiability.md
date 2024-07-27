@@ -11,18 +11,13 @@ date: 2023-03-16
 authors:
   - name: Imant Daunhawer
     affiliations: [ETH Zurich]
-    url: 
   - name: <b>Alice Bizeul</b>
-    url:
     affiliations: [ETH Zurich, ETH AI Center]
   - name: Emanuele Palumbo
-    url:
     affiliations: [ETH Zurich, ETH AI Center]
   - name: Alexander Marx
-    url:
     affiliations: [ETH Zurich, ETH AI Center]
   - name: Julia E. Vogt
-    url:
     affiliations: [ETH Zurich]
 
 journal: ICLR 2023
