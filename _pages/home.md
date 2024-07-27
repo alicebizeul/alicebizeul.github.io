@@ -11,7 +11,8 @@ profile:
 nav: false
 news: true # includes a list of news items
 ---
-### About Me
+## About Me
+
 <div style="display: flex; align-items: center; gap: 20px;">
   <div class="col-md-8" markdown="1"> 
 
