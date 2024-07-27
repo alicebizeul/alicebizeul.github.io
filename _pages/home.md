@@ -10,6 +10,7 @@ profile:
 
 nav: false
 news: true # includes a list of news items
+education: true
 ---
 
 ## About Me
@@ -43,7 +44,6 @@ news: true # includes a list of news items
 {% if page.education %}
 {% include education.html %}
 {% endif %}
-
 
 ## Personal Information
 
