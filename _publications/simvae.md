@@ -16,7 +16,7 @@ authors:
   - name: Carl Allen
     affiliations: [ETH Zurich, ETH AI Center]
 
-journal: _under submission_
+journal: under submission
 bib: /assets/bibliography/simvae.txt
 abstract: In self-supervised learning (SSL), representations are learned via an auxiliary task without annotated labels. A common task is to classify augmentations or different modalities of the data, which share semantic content (e.g. an object in an image) but differ in style (e.g. the object's location). Many approaches to self-supervised learning have been proposed, e.g. SimCLR, CLIP, and VicREG, which have recently gained much attention for their representations achieving downstream performance comparable to supervised learning. However, a theoretical understanding of self-supervised methods eludes. Addressing this, we present a generative latent variable model for self-supervised learning and show that several families of discriminative SSL, including contrastive methods, induce a comparable distribution over representations, providing a unifying theoretical framework for these methods. 
 The proposed model also justifies connections drawn to mutual information and the use of a ``projection head''. Learning representations by fitting the model generatively (termed SimVAE) improves performance over 
