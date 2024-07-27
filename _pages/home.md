@@ -11,10 +11,9 @@ profile:
 nav: false
 news: true # includes a list of news items
 ---
-
+### About Me
 <div style="display: flex; align-items: center; gap: 20px;">
   <div class="col-md-8" markdown="1"> 
-  ### About Me
 
   I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
@@ -22,7 +21,8 @@ news: true # includes a list of news items
 
   I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-  More information about me can be found [in my resume](/assets/pdf/cv.pdf)
+  More information about me can be found <a href="/assets/pdf/cv.pdf"><u>in my resume</u></a>
+
   </div>
 
   <div>
@@ -38,17 +38,9 @@ news: true # includes a list of news items
 
 ## Education
 
-_2021 - Ongoing_ \
-Ph.D. in Computer Science @ETH Zürich and @ETH AI Center
-
-_2020_\
-Master's Thesis @Senseable Intelligence Group, MIT under the supervision of Prof. Satrajit Ghosh.
-
-_2014 - 2020_\
-Bachelor's & Master's @EPFL, Faculty of Life Sciences Engineering
-
-_2014_\
-Left the Netherlands for Switzerland!
+{% if page.education %}
+{% include education.html %}
+{% endif %}
 
 ## Personal Information
 
