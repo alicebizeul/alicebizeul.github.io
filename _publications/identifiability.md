@@ -11,7 +11,7 @@ date: 2023-03-16
 authors:
   - name: Imant Daunhawer
     affiliations: [ETH Zurich]
-  - name: <b>Alice Bizeul<b>
+  - name: <b>Alice Bizeul</b>
     affiliations: [ETH Zurich, ETH AI Center]
   - name: Emanuele Palumbo
     affiliations: [ETH Zurich, ETH AI Center]
