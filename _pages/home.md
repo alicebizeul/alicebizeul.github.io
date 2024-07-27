@@ -21,12 +21,10 @@ In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis a
 
 I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-More information about me <a href="/assets/pdf/cv.pdf">here</a> <i class="fas fa-download"></i></a>
+More information about me <a href="/assets/pdf/cv.pdf">here</a><i class="fas fa-download"></i></a>
 
- </div>
-  <div class="col-md-4 m-auto" style="text-align: center">
-    <img class="img-responsive rounded-circle profile" src="assets/img/{{avatar.jpg}}">
-  </div>
+<div class="col-md-4 m-auto" style="text-align: center">
+  <img class="img-responsive rounded-circle profile" src="assets/img/{{avatar.jpg}}">
 </div>
 
 ## News
