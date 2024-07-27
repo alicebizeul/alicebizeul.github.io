@@ -14,16 +14,22 @@ news: true # includes a list of news items
 
 ## About Me
 
-I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div class="col-md-8" markdown="1"> 
 
-In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
+  I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
-I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
+  In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
 
-More information about me can be found [in my resume](/assets/pdf/cv.pdf)
+  I am broadly interested in **generative modelling, representation learning and (probabilistic) self-supervised methods**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations of the world**.
 
-<div class="col-md-4 m-auto" style="text-align: center">
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo">
+  More information about me can be found <a href="/assets/pdf/cv.pdf"><u>in my resume</u></a>
+
+  </div>
+
+  <div>
+    <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 250px;">
+  </div>
 </div>
 
 ## News
