@@ -12,7 +12,7 @@ nav: false
 news: true # includes a list of news items
 ---
 
-### About Me
+## About Me
 
 I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow, currently conducting an internship at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
