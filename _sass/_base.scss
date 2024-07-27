@@ -148,6 +148,12 @@ a, table.table a{ // need to override the default link color of table.table
   color: var(--global-text-color);
 }
 
+// Education
+
+.education *{
+  color: var(--global-text-color);
+}
+
 // Publications
 
 .publications *{
