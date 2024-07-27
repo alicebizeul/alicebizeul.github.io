@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: <span style="font-size:0.5em;">Ph.D. Student @ETH Zürich & @ETH AI Center | Previously Research Intern @Amazon and @EPFL and @MIT</span> 
+description: <span style="font-size:3em;">Ph.D. Student @ETH Zürich & @ETH AI Center | Previously Research Intern @Amazon and @EPFL and @MIT</span> 
 
 profile:
   image: avatar.jpg
