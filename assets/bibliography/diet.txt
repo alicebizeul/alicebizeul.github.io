@@ -1,0 +1,5 @@
+@inproceedings{juhosdieting,
+  title={DIETing: Self-Supervised Learning with Instance Discrimination Learns Identifiable Features},
+  author={Juhos, Attila and Bizeul, Alice and Reizinger, Patrik and Klindt, David and Balestriero, Randall and Ibrahim, Mark and Vogt, Julia E and Brendel, Wieland},
+  booktitle={UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models}
+}
