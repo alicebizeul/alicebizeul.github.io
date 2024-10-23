@@ -11,11 +11,11 @@ date: 2024-10-01
 authors:
   - name: <b>Alice Bizeul</b>
     affiliations: [ETH Zurich, ETH AI Center]
-  - name: Thomas Sutter
+  - name: Thomas M. Sutter
     affiliations: [ETH Zurich]
   - name: Alain Ryser
     affiliations: [ETH Zurich]
-  - name: Julius Von Kügelen
+  - name: Julius Von Kügelgen
     affiliations: [ETH Zurich]
   - name: Bernhard Schölkopf
     affiliations: [Max Planck Institute for Intelligent Systems]
