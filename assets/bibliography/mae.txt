@@ -1,6 +1,6 @@
 @article{bizeul2024components,
   title={Components Beat Patches: Eigenvector\\Masking for Visual Representation Learning},
-  author={Bizeul, Alice and Thomas Sutter and Alain Ryser and Julius Von Kügelen and Bernhard Schölkopf and Julia E. Vogt},
+  author={Bizeul, Alice and Thomas M. Sutter and Alain Ryser and Julius Von Kügelgen and Bernhard Schölkopf and Julia E. Vogt},
   journal={under submission},
   year={2024}
 }
