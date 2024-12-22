@@ -40,7 +40,7 @@ education: true
 ## Publications
 
 {% if page.publications %}
-{% include publications.html %}
+{% include publication.html %}
 {% endif %}
 
 ## News
