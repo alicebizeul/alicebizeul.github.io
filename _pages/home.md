@@ -33,7 +33,7 @@ education: true
 
   In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
 
-  More information about me can be found <a href="/assets/pdf/cv.pdf"><u><span style="color: #0047AB;">in my CV</span></u></a>
+  More information about me can be found <a href="/assets/pdf/cv.pdf"><u><span style="color: #6495ED;">in my CV</span></u></a>
 
 
 </div>
