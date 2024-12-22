@@ -16,7 +16,7 @@ education: true
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously Research Intern @Amazon, @EPFL, and @MIT
   </span>
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 50px;">
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 100px;">
 </div>
 
 ## About Me
@@ -24,7 +24,7 @@ education: true
 <!-- <div style="display: flex; align-items: center; gap: 20px;"> -->
 <div markdown="1"> 
 
-  I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow. In 2023/2024, I was an intern at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
+  I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow. In 2024, I was an intern at [Amazon Research](https://www.amazon.science) in Tübingen, DE. 
 
   I am broadly interested in **representation learning, (probabilistic) self-supervised (SSL) methods and generative modelling**, more specifically **understanding** how current methods work and leverage this knowledge to **build better representations**. 
   
