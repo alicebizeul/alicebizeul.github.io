@@ -7,7 +7,6 @@ profile:
   align: right
   image: avatar.jpg
   image_circular: false
-  social: true
   address: >
   <p>Ph.D. Student @ETH Zürich & @ETH AI Center</p>
   <p>Previously @EPFL, @MIT, research intern @Amazon</p>
