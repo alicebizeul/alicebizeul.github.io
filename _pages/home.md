@@ -21,8 +21,8 @@ education: true
 
 ## About Me
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div class="col-md-8" markdown="1"> 
+<!-- <div style="display: flex; align-items: center; gap: 20px;"> -->
+<div class="col-md-8" markdown="1"> 
 
   I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow. In 2023/2024, I was an intern at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
@@ -36,12 +36,12 @@ education: true
 
   More information about me can be found <a href="/assets/pdf/cv.pdf"><u>in my CV</u></a>
 
-  </div>
+</div>
 
   <!-- <div>
     <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 250px;">
-  </div> -->
-</div>
+  </div>
+</div> -->
 
 ## Publications
 
