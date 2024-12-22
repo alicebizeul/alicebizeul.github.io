@@ -15,12 +15,10 @@ education: true
 ---
 
 <div markdown="1"> 
-<span style="font-size: 1.2em;">
-    Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously @EPFL, @MIT, research intern @Amazon <br> Working on self-supervised representation learning, <br> multimodal learning and generative modelling.
-    <div class="social" style="font-size: 1.5em; padding-left: 100px;">
-        {% include social.html %}
-    </div>
-  </span>
+  Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously @EPFL, @MIT, research intern @Amazon <br> Working on self-supervised representation learning, <br> multimodal learning and generative modelling.
+  <div class="social" style="font-size: 1.5em; padding-left: 100px;">
+    {% include social.html %}
+  </div>
 </div>
 <!-- <div style="display: flex; align-items: center; gap: 150px;">
   <span style="font-size: 1.2em;">
