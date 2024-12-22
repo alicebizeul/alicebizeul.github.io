@@ -2,8 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: /
-
+description:
 profile:
   image: avatar.jpg
   address: >
