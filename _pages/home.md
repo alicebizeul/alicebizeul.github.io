@@ -12,17 +12,17 @@ news: true # includes a list of news items
 education: true
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 50px;">
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously Research Intern @Amazon, @EPFL, and @MIT
   </span>
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 30px;">
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 50px;">
 </div>
 
 ## About Me
 
 <!-- <div style="display: flex; align-items: center; gap: 20px;"> -->
-<div class="col-md-8" markdown="1"> 
+<div markdown="1"> 
 
   I am a Doctoral Student at [ETH Zürich](https://ethz.ch/) and an [ETH AI Center](https://ai.ethz.ch/) fellow. In 2023/2024, I was an intern at [Amazon Research](https://www.amazon.science) in Tübingen, Germany. 
 
