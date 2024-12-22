@@ -29,10 +29,10 @@ education: true
   
   During my PhD, I have been thinking about how we learn representations from observations in unsupervised settings. While discriminative methods (e.g., SimCLR, DINO) generally outperform reconstruction/generative ones (e.g., VAE, MAE), they often rely on less principled approaches. Instead reconstruction-based approach carry their load of challenges, limiting there performance but are driven by principled objectives. 
   
-  Early on during my PhD, I used Identifiability and Causal Representation Learning to better understand discriminative SSL in multi-modal settings. Later on, I explored latent variable models as a mean to explain SSL and unify discriminative and generative methods. More recently, I've explored Masked Autoencoders and proposed the space of principal components as a more principled and effective masking space for reconstructive SSL. Finally, I am currently looking into the training dynamics of discriminative SSL, specifically how data characteristics affect these dynamics. All of this work, would not been possible without great collaborators from ETH Zürich, the Max Plank Institute, Tübingen and many others!
+  Early on during my PhD, I used Identifiability and Causal Representation Learning to better understand discriminative SSL in multi-modal settings. Later on, I explored latent variable models as a mean to explain SSL and unify discriminative and generative methods. More recently, I've explored Masked Autoencoders and proposed the space of principal components as a more principled and effective masking space for reconstructive SSL. Finally, I am currently looking into the training dynamics of discriminative SSL, specifically how data characteristics affect these dynamics.
 
   In 2020, I graduated from [EPFL](https://www.epfl.ch/) after a Master's Thesis at the [Senseable Intelligence Group, MIT](https://sensein.group) under the supervision of Prof. Satrajit Ghosh. After working on the modelling of 3D brain scans using GANs at MIT, I joined the ETH AI Center in Zürich for my Ph.D. under the supervision of Prof. Julia Vogt and Prof. Bernhard Schölkopf. 
-  
+
   More information about me can be found <a href="/assets/pdf/cv.pdf"><u><span style="color: blue; font-weight: bold;">in my CV</span></u></a>
 
 
