@@ -50,6 +50,7 @@ education: true
     {% endfor %}
     </table>
   </div>
+</div>
 
 ## News
 
