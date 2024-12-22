@@ -6,6 +6,7 @@ description:
 profile:
   align: right
   image: avatar.jpg
+  image_circular: false
   address: >
 
 nav: false
