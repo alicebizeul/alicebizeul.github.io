@@ -39,7 +39,7 @@ education: true
 
 ## Publications
 
-{% if page.publications %}
+{% if page.publication %}
 {% include publication.html %}
 {% endif %}
 
