@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: 
+description: /
 
 profile:
   image: avatar.jpg
@@ -17,7 +17,7 @@ education: true
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich & @ETH AI Center | Previously Research Intern @Amazon, @EPFL, and @MIT
   </span>
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 20px;">
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 100px; margin-right: 30px;">
 </div>
 
 ## About Me
@@ -39,9 +39,9 @@ education: true
 
   </div>
 
-  <div>
+  <!-- <div>
     <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 250px;">
-  </div>
+  </div> -->
 </div>
 
 ## Publications
