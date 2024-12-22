@@ -37,6 +37,12 @@ education: true
   </div>
 </div>
 
+## Publications
+
+{% if page.publications %}
+{% include publications.html %}
+{% endif %}
+
 ## News
 
 {% if page.news %}
