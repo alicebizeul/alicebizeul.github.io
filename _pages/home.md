@@ -12,7 +12,7 @@ news: true # includes a list of news items
 education: true
 ---
 
-<div style="display: flex; align-items: center; gap: 100px;">
+<div style="display: flex; align-items: center; gap: 80px;">
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously Research Intern @Amazon, @EPFL, and @MIT
   </span>
