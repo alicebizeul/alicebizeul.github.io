@@ -4,29 +4,24 @@ permalink: /
 title: Home
 description:
 profile:
+  align: right
   image: avatar.jpg
   address: >
-  
+
 nav: false
 news: true # includes a list of news items
 education: true
 ---
 
-<!-- <div markdown="1"> 
-  Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously @EPFL, @MIT, research intern @Amazon <br> Working on self-supervised representation learning, <br> multimodal learning and generative modelling.
-  <div class="social" style="font-size: 1.5em; padding-left: 100px;">
-    {% include social.html %}
-  </div>
-</div> -->
-<!-- <div style="display: flex; align-items: center; gap: 150px;">
+<div style="display: flex; align-items: center; gap: 150px;">
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich & @ETH AI Center <br> Previously @EPFL, @MIT, research intern @Amazon <br> Working on self-supervised representation learning, <br> multimodal learning and generative modelling.
     <div class="social" style="font-size: 1.5em; padding-left: 100px;">
         {% include social.html %}
     </div>
   </span>
-  <!-- <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 200px; margin-right: 30px;"> -->
-<!-- </div> --> 
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 200px; margin-right: 30px;">
+</div>
 
 ## About Me
 
