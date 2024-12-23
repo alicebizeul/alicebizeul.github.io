@@ -4,10 +4,9 @@ permalink: /
 title: Home
 description:
 profile:
-  align: right
   image: avatar.jpg
-  image_circular: false
   address: >
+  
 nav: false
 news: true # includes a list of news items
 education: true
