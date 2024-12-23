@@ -8,10 +8,6 @@ profile:
   image: avatar.jpg
   image_circular: false
   address: >
-  <p>Ph.D. Student @ETH Zürich & @ETH AI Center</p>
-  <p>Previously @EPFL, @MIT, research intern @Amazon</p>
-  <p>Working on self-supervised representation learning, multimodal learning and generative modelling.</p>
-
 nav: false
 news: true # includes a list of news items
 education: true
