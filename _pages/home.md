@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Alice Bizeul
-description:
+description: Alice Bizeul's portfolio
 profile:
   align: right
   image: avatar.jpg
