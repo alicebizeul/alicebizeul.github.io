@@ -20,7 +20,7 @@ education: true
         {% include social.html %}
     </div>
   </span>
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 150px;">
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo">
 </div>
 
 ## About Me

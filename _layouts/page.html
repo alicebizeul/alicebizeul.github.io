@@ -22,6 +22,14 @@ layout: default
       display: inline;
     }
 
+    @media (min-width: 769px) {
+      .profile {
+        margin-left: auto; /* Push the image to the far right */
+        padding-right: 100px; /* Add 100px padding on the right */
+        max-width: 170px; /* Keep the image size controlled */
+      }
+    }
+
     @media (max-width: 768px) {
       div[style*="display: flex;"] {
         flex-direction: column;
@@ -30,8 +38,9 @@ layout: default
       }
   
       .profile {
-        max-width: 150px;
-        margin: 0 auto;
+        max-width: 200px;
+        margin: 0 auto; /* Center the image */
+        padding-right: 0; /* Remove padding for mobile */
       }
   
       .social {
