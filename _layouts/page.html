@@ -11,5 +11,29 @@ layout: default
     <p class="page-description">{{ page.description }}</p>
   </header>
 
+  <style>
+    @media (max-width: 768px) {
+      div[style*="display: flex;"] {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+      }
+  
+      .profile {
+        max-width: 150px;
+        margin: 0 auto;
+      }
+  
+      .social {
+        padding-left: 0;
+      }
+  
+      body {
+        font-size: 16px;
+        margin: 10px;
+      }
+    }
+  </style>
+
   <article>{{ content }}</article>
 </div>
