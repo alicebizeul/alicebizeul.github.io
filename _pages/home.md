@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Home
+title: 
 description:
 profile:
   align: right
