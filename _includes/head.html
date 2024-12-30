@@ -3,32 +3,39 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>Alice Bizeul</title>
+<meta name="description" content="Alice Bizeul">
+<meta property="og:title" content="Alice Bizeul">
+<meta property="og:description" content="Alice Bizeul">
+
 <!-- <meta name="description"
   content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
  -->
-<meta name="description" content="Welcome to Alice Bizeul's portfolio.">
 <meta name="keywords" content="Alice Bizeul">
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
 <meta content="{{ site.title }}" property="og:site_name">
-{% if page.title %}
+
+<!-- {% if page.title %}
 <meta content="{{ page.title }}" property="og:title">
 {% else %}
 <meta content="{{ site.title }}" property="og:title">
-{% endif %}
+{% endif %} -->
+
 {% if page.title %}
 <meta content="page" property="og:type">
 {% else %}
 <meta content="website" property="og:type">
 {% endif %}
-{% if page.excerpt %}
+
+<!-- {% if page.excerpt %}
 <meta
   content="{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |  truncatewords: 50 }}"
   property="og:description">
 {% else %}
 <meta content="{{ site.description }}" property="og:description">
-{% endif %}
+{% endif %} -->
+
 {% if page.url %}
 <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
@@ -73,7 +80,8 @@
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+<!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}"> -->
+<link rel="canonical" href="https://alicebizeul@github.com/">
 
 <!-- JQuery -->
 {% include scripts/jquery.html %}
