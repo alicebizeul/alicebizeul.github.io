@@ -13,7 +13,7 @@ news: true # includes a list of news items
 education: true
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex;">
   <span style="font-size: 1.2em;">
     Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning, multimodal learning & generative modelling.
     <div class="social" style="font-size: 1.5em;">
