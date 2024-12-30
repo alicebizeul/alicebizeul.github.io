@@ -15,7 +15,7 @@ education: true
 
 <div style="display: flex;">
   <span style="font-size: 1.2em;">
-    Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning, multimodal learning & generative modelling.
+    Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning,<span class="extra-large-only"><br></span> multimodal learning & generative modelling.
     <div class="social" style="font-size: 1.5em;">
         {% include social.html %}
     </div>

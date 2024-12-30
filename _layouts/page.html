@@ -17,7 +17,11 @@ layout: default
         gap: 20px;
         text-align: left;
     }
-    
+
+    .extra-large-only {
+      display: inline;
+    }
+
     @media (max-width: 768px) {
       div[style*="display: flex;"] {
         flex-direction: column;
@@ -37,6 +41,10 @@ layout: default
       body {
         font-size: 16px;
         margin: 10px;
+      }
+
+      .extra-large-only {
+        display: none;
       }
     }
   </style>
