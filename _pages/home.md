@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: 
+title: Alice Bizeul
 description:
 profile:
   align: right
