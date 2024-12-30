@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>Alice Bizeul</title>
-<meta name="description" content="Alice Bizeul">
+<meta name="description" content="Alice Bizeul - PhD student in Self-Supervised Representation Learning at ETH Zurich.">
 <meta property="og:title" content="Alice Bizeul">
 <meta property="og:description" content="Alice Bizeul">
 
@@ -36,9 +36,12 @@
 <meta content="{{ site.description }}" property="og:description">
 {% endif %} -->
 
-{% if page.url %}
+<!-- {% if page.url %}
 <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-{% endif %}
+{% endif %} -->
+<meta property="og:url" content="https://alicebizeul.github.io">
+
+
 {% if page.date %}
 <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 <meta content="{{ site.url }}/about/" property="article:author">
@@ -81,7 +84,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 <!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}"> -->
-<link rel="canonical" href="https://alicebizeul@github.com/">
+<link rel="canonical" href="https://alicebizeul.github.io/">
 
 <!-- JQuery -->
 {% include scripts/jquery.html %}
@@ -108,9 +111,8 @@
       "https://mds.inf.ethz.ch/team/detail/alice-bizeul",
       "https://ai.ethz.ch/about-us/people/alice-bizeul.html",
       "https://github.com/alicebizeul"
-      ""
     ],
-    "jobTitle": "PhD Student working on Self-supervised Representation Learning",
+    "jobTitle": "PhD Student in Self-supervised Representation Learning",
     "worksFor": {
       "@type": "Organization",
       "name": "ETH Zurich"
