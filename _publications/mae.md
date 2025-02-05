@@ -3,7 +3,7 @@ layout: publication_page
 show: true
 noheader: true
 
-title: "Components Beat Patches: Eigenvector Masking for Visual Representation Learning"
+title: "From Pixels to Components: Eigenvector Masking for Visual Representation Learning"
 description:
 
 date: 2024-10-01
