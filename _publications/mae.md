@@ -26,7 +26,7 @@ journal: under submission (accepted to NeurIPS 2024 WiML workshop)
 bib: /assets/bibliography/mae.txt
 abstract: Masked Image Modeling has gained prominence as a powerful self-supervised learning approach for visual representation learning by reconstructing masked-out patches of pixels. However, the use of random spatial masking can lead to failure cases in which the learned features are not predictive of downstream labels. In this work, we introduce a novel masking strategy that targets principal components instead of image patches. The learning task then amounts to reconstructing the information of masked-out principal components. The principal components of a dataset contain more global information than patches, such that the information shared between the masked input and the reconstruction target should involve more high-level variables of interest. This property allows principal components to offer a more meaningful masking space, which manifests in improved quality of the learned representations. We provide empirical evidence across natural and medical datasets and demonstrate substantial improvements in image classification tasks. Our method thus offers a simple and robust data-driven alternative to traditional Masked Image Modelling approaches.
 pdf: /assets/pdf/mae.pdf
-arxiv: https://openreview.net/forum?id=xqEeGja6zq
+arxiv: https://arxiv.org/pdf/2502.06314
 
 # Below is an example of injecting additional page-specific styles.
 # If you use this page as a template, delete this _styles block.

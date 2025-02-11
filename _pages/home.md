@@ -67,7 +67,7 @@ education: true
 {% include education.html %}
 {% endif %}
 
-## Personal Information
+<!-- ## Personal Information
 
 - <img src="../assets/img/placeholder.png" style="max-width: 20px;"> Zürich, Switzerland
-- <img src="../assets/img/house.png" style="max-width: 20px;"> in Maastricht, Liège, Paris & Zürich
+- <img src="../assets/img/house.png" style="max-width: 20px;"> in Maastricht, Liège, Paris & Zürich -->
