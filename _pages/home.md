@@ -15,7 +15,7 @@ education: true
 
 <div style="display: flex;">
   <span style="font-size: 1.2em;">
-    Research intern @Apple MLR <br> Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning,<span class="extra-large-only"><br></span> multimodal learning & generative modelling.
+    Research intern @Apple MLR <br> Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning,<span class="extra-large-only"><br></span> and multimodal generation.
     <div class="social" style="font-size: 1.5em;">
         {% include social.html %}
     </div>
@@ -27,7 +27,7 @@ education: true
 
 <div markdown="1"> 
 
-  I am a doctoral student at <a href="https://ethz.ch/"><span style="color: #6495ED;"> ETH Zürich</span></a> and an <a href="https://ai.ethz.ch/"><span style="color: #6495ED;"> ETH AI Center</span></a> fellow, advised by <a href="https://mds.inf.ethz.ch"><span style="color: #6495ED;">Prof. Julia Vogt</span></a> and <a href="https://ei.is.mpg.de"><span style="color: #6495ED;">Prof. Bernhard Schölkopf</span></a>. In April 2025, I started an internship at Apple MLR in Barcelona. In 2024, I interned at <a href="https://www.amazon.science"><span style="color: #6495ED;"> Amazon Science</span></a> in Tübingen, Germany, where I worked on diffusion-based generative modelling. Prior to joining ETH, I graduated from <a href="https://www.amazon.science"><span style="color: #6495ED;">EPFL</span></a> after a master's thesis at the <a href="https://www.mit.edu"><span style="color: #6495ED;">MIT</span></a> under the supervision of <a href="https://sensein.group"><span style="color: #6495ED;">Prof. Satrajit Ghosh</span></a>. At MIT, I worked on the generation of 3D brain scans using GANs.
+  I am a doctoral student at <a href="https://ethz.ch/"><span style="color: #6495ED;"> ETH Zürich</span></a> and an <a href="https://ai.ethz.ch/"><span style="color: #6495ED;"> ETH AI Center</span></a> fellow, advised by <a href="https://mds.inf.ethz.ch"><span style="color: #6495ED;">Prof. Julia Vogt</span></a> and <a href="https://ei.is.mpg.de"><span style="color: #6495ED;">Prof. Bernhard Schölkopf</span></a>. In parallel, I am currently a research intern at <a href="https://machinelearning.apple.com"><span style="color: #6495ED;">Apple MLR</span></a> working on multi-modal generation. In April 2025, I started an internship at Apple MLR in Barcelona. In 2024, I interned at <a href="https://www.amazon.science"><span style="color: #6495ED;"> Amazon Science</span></a> in Tübingen, Germany, where I worked on diffusion-based generative modelling. Prior to joining ETH, I graduated from <a href="https://www.amazon.science"><span style="color: #6495ED;">EPFL</span></a> after a master's thesis at the <a href="https://www.mit.edu"><span style="color: #6495ED;">MIT</span></a> under the supervision of <a href="https://sensein.group"><span style="color: #6495ED;">Prof. Satrajit Ghosh</span></a>. At MIT, I worked on the generation of 3D brain scans using GANs.
 
   I am broadly interested in **representation learning, (probabilistic) self-supervised (SSL) methods and generative modelling**, more specifically **understanding** how current methods work to then leverage this knowledge to **build general representations**. 
   
