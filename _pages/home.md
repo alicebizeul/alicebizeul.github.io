@@ -15,7 +15,7 @@ education: true
 
 <div style="display: flex;">
   <span style="font-size: 1.2em;">
-    Research intern @Apple MLR <br> Ph.D. Student @ETH Zürich <br> Previously @EPFL, @MIT, @Amazon <br> Working on self-supervised representation learning,<span class="extra-large-only"><br></span> and multimodal generation.
+    Research intern at Apple MLR <br> Ph.D. Student at ETH Zürich <br> Previously at EPFL, MIT, Amazon <br> Working on self-supervised representation learning,<span class="extra-large-only"><br></span> and multimodal generation.
     <div class="social" style="font-size: 1.5em;">
         {% include social.html %}
     </div>
