@@ -15,7 +15,7 @@ education: true
 
 <div style="display: flex;">
   <span style="font-size: 1.2em;">
-    Research Scientist at Apple MLR <br> Previously at EPFL, MIT, Amazon and ETH <br> Working on self-supervised representation <span class="extra-large-only"><br></span> learning, and multimodal generation.
+    Research Scientist at Apple MLR <br> Working on self-supervised representation <span class="extra-large-only"><br></span> learning, and multimodal generation.
     <div class="social" style="font-size: 1.5em;">
         {% include social.html %}
     </div>
