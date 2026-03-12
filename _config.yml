@@ -7,7 +7,7 @@ first_name: Alice
 last_name: Bizeul
 email: alice.bizeul@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Student @ETH Zürich | Previously research intern @Amazon
+  Research Scientist @ Apple MLR | Previously Ph.D. Student @ ETH Zürich
 footer_text: >
 
 icon: 👩🏽‍🎓 # the emoji used as the favicon - you can use a custom image by changing the line in head.html
