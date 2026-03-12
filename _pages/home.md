@@ -14,13 +14,13 @@ education: true
 ---
 
 <div style="display: flex;">
+  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 180px;">
   <span style="font-size: 1.2em;">
     Research Scientist at Apple MLR <br> Working on self-supervised representation <span class="extra-large-only"><br></span> learning, and multimodal generation.
     <div class="social" style="font-size: 2.0em;">
         {% include social.html %}
     </div>
   </span>
-  <img class="img-responsive rounded-circle profile" src="assets/img/avatar.jpg" alt="Profile photo" style="max-width: 180px;">
 </div>
 
 ## About Me
